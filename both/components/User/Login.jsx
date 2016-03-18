@@ -38,6 +38,6 @@ Login = React.createClass({
 					</div>
 				</form>
 			</div>
-		);
+		);	
 	}
 });

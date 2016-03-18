@@ -3,7 +3,6 @@ Home = React.createClass({
     return (
       <div>
         <h1>Welcome to Meteor!</h1>
-
       </div>
     );
   }
